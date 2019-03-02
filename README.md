@@ -30,7 +30,6 @@ The output will be:
 
 To bring network down:
 ```bash
-cd weather-network
 ./network_down.sh
 ```
 
