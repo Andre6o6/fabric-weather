@@ -17,7 +17,7 @@ Download Binaries and Docker Images for Hyperledger Fabric using script:
 ## Usage
 Network looks like this:
 
-![Here goes scheme](/docs/net.png)
+![Here goes scheme](docs/net.png)
 
 This script will bring network up, install chaincode on it's nodes and do testing:
 ```bash
@@ -26,11 +26,13 @@ cd weather-network
 ```
 The output will be:
 
-![Here goes gif](/docs/cli_up.gif)
+![Here goes gif](docs/cli_up.gif)
+
+This test code will measure temperature t1 on peer0.north, then measure temperature t2 on peer0.south, then *"forecast"* average temperature on nodes peer1.north and peer1.south.
 
 To bring network down:
 ```bash
 ./network_down.sh
 ```
 
-![Here goes gif 2](/docs/cli_down.gif)
+![Here goes gif 2](docs/cli_down.gif)
