@@ -21,8 +21,7 @@ Network looks like this:
 
 This script will bring network up, install chaincode on it's nodes and do testing:
 ```bash
-cd weather-network
-./network_up.sh
+./weather-network/network_up.sh
 ```
 The output will be:
 
@@ -32,7 +31,7 @@ This test code will measure temperature t1 on peer0.north, then measure temperat
 
 To bring network down:
 ```bash
-./network_down.sh
+./weather-network/network_down.sh
 ```
 
 ![Here goes gif 2](docs/cli_down.gif)
