@@ -1,5 +1,6 @@
 # fabric-weather
-Distributed weather station modelled in hyperledger fabric
+Distributed weather station modelled in hyperledger fabric. 
+Course project for course "Grid basics and Cloud computing".
 
 ## Pre-requisite
 Prerequisites for Hyperledger Fabric:
