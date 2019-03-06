@@ -1,7 +1,7 @@
 # fabric-weather
 Distributed weather station modelled in hyperledger fabric.
 
-[Check presentation for task details.](https://docs.google.com/presentation/d/1nDtxYk8Xt24zOLACDAJxXDZ_6IYRTzt5nSbsjyqpx3o)
+[Check presentation for task details.](https://docs.google.com/presentation/d/e/2PACX-1vSD2ynCXTRIhzSIm0LrA-__1AiRCSmVheJNFeABG_GciVWIj_cGOBsHQS3GF7q85CSFzAbksP98a72l/pub?start=false&loop=false&delayms=3000)
 
 Course project for course "Grid basics and Cloud computing".
 
